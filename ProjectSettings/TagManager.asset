@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MC
+  - Scene1
+  - Scene2
+  - target
+  - Home
+  - NoEvent
+  - Wastafel
+  - Bathroom
+  - Bedroom
+  - ToHome
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 4255327295
+    locked: 0
+  - name: Foreground
+    uniqueID: 2869756087
+    locked: 0
+  - name: Transisi
+    uniqueID: 2960266421
+    locked: 0
+  - name: MinigameBG
+    uniqueID: 3942762197
+    locked: 0
+  - name: MinigameFG
+    uniqueID: 4083089231
+    locked: 0
+  - name: MinigameFG2
+    uniqueID: 4017991561
+    locked: 0

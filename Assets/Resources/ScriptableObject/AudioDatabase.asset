@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fb3a16bfd9f73498f055c37ab874bc, type: 3}
+  m_Name: AudioDatabase
+  m_EditorClassIdentifier: 
+  AudioDB:
+  - Id: None
+    Audio: {fileID: 0}
+  - Id: Soap
+    Audio: {fileID: 8300000, guid: 0aec5c190ce91824bac48932647089b6, type: 3}
+  - Id: Water
+    Audio: {fileID: 8300000, guid: 0fbebd712276cfd40b5ee9bcd4c175e3, type: 3}
+  - Id: Faucet
+    Audio: {fileID: 8300000, guid: c60fb84edba141c4490cfeb9a487cba9, type: 3}
+  - Id: Blanket
+    Audio: {fileID: 8300000, guid: c2f4d179571302b48b1f7b7cfb071ab3, type: 3}
+  - Id: LampOff
+    Audio: {fileID: 8300000, guid: 006b95e994b8fe0469ea820f2051d200, type: 3}
+  - Id: News
+    Audio: {fileID: 8300000, guid: f413e352446488844ad80230d9568de8, type: 3}
+  - Id: KnockDoor
+    Audio: {fileID: 8300000, guid: b72a7d0397487304690819bc045fe3a7, type: 3}
+  - Id: OpenDoor
+    Audio: {fileID: 8300000, guid: b5d11376f8a2d5440bcb1b8c9c4863fb, type: 3}
+  - Id: CloseDoor
+    Audio: {fileID: 8300000, guid: 08f9a6627fb39d347b0b949d25ae317d, type: 3}
+  - Id: Shower
+    Audio: {fileID: 8300000, guid: 17e3d53252f7e8c498c3e62fcc51ec7d, type: 3}
+  - Id: Crowd
+    Audio: {fileID: 8300000, guid: 86d0e44350d0eae449ca18259be3af32, type: 3}
+  - Id: BGM001
+    Audio: {fileID: 8300000, guid: 1f51538f0704d4f4a8609a3168788a4e, type: 3}
+  - Id: Step
+    Audio: {fileID: 8300000, guid: d68ca0e25567bc94497e89929670d2b4, type: 3}
+  - Id: Hoi
+    Audio: {fileID: 8300000, guid: 299e9eafd397af147bae0032cc952886, type: 3}
+  - Id: Cough
+    Audio: {fileID: 8300000, guid: 5159f6f5dbca8504cb585e34d2fe7803, type: 3}
